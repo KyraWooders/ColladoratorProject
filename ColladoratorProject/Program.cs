@@ -10,7 +10,7 @@ namespace ColladoratorProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, MeatBag");
+            Console.WriteLine("YOU FOOL! YOU FELL FOR IT! THUNDER CROSS SPLIT ATTACK!");
             Console.ReadKey();
         }
     }
