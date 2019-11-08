@@ -10,6 +10,8 @@ namespace ColladoratorProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, MeatBag");
+            Console.ReadKey();
         }
     }
 }
